@@ -49,7 +49,6 @@
 ||offline.aps.amap.com^$important
 ||tp.hd.mi.com^$important
 ||graph.facebook.com^$important
-||api.io.mi.com^$important
 ||statusapi.micloud.xiaomi.net^$important
 ||api.hybrid.xiaomi.com^$important
 ||cnac.account.xiaomi.com^$important
@@ -193,7 +192,6 @@
 ||rlmt.iqiyi.com^$important
 ||doh.iqiyi.com^$important
 ||opportunarch.iqiyi.com^$important
-||iface2.iqiyi.com^$important
 ||iqid.iqiyi.com^$important
 ||l-rcd.iqiyi.com^$important
 ||cards.iqiyi.com^$important
@@ -264,7 +262,6 @@ t66y.com##div[class^=tips_]
 ||feiyan.wecity.qq.com^$important
 ||jvod.300hu.com^$important
 ||jvod.300hu.com.wscdns.com^$important
-||pcdnlog-receiver-pub.jd.com^$important
 ||ios-msg-box.wps.cn^$important
 ||mobile.docer.wps.cn^$important
 ||cloud.wpscdn.com^$important
@@ -300,3 +297,18 @@ t66y.com##div[class^=tips_]
 ||suggestion.baidu.com^$important
 ||s.ssl.qhres2.com^$important
 ||appcenter.ms^$important
+||urlsec.qq.com^$important
+||kinglog.feidee.net^$important
+||bbs.feidee.com^$important
+||pull.feidee.net^$important
+||tnc3-aliec2.snssdk.com^$important
+||tg.feidee.com^$important
+||downloads.feidee.com^$important
+||oss.feidee.com^$important
+||oss.feidee.net^$important
+||bbsapi.feidee.com^$important
+||invest.feidee.net^$important
+||catdot.dianping.com^$important
+||app.xunkids.com^$important
+||nupgrade.xunkids.com^$important
+||app-measurement.com^$important
