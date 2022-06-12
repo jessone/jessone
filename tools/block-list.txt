@@ -1,5 +1,5 @@
 !Title: Block-list
-!Version: 2022/05/26
+!Version: 2022/06/12
 !!!https://fastly.jsdelivr.net/gh/jessone/jessone@master/tools/block-list.txt
 !Total lines: 317
 
@@ -314,3 +314,11 @@ t66y.com##div[class^=tips_]
 ||abc.jiaoyumao.com^
 ||js.jiaoyumao.com^
 ||9136.com^
+||updates.roonlabs.com^
+||accounts5.roonlabs.com^
+||utyupdate.synology.com^
+||utyautoupdate.synology.cn^$important
+||checkip.synology.com^$important
+||adashx.m.taobao.com.gds.alibabadns.com^$important
+||utyautoupdate.
+.cn^$important
