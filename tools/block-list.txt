@@ -320,5 +320,4 @@ t66y.com##div[class^=tips_]
 ||utyautoupdate.synology.cn^$important
 ||checkip.synology.com^$important
 ||adashx.m.taobao.com.gds.alibabadns.com^$important
-||utyautoupdate.
-.cn^$important
+||utyautoupdate.cn^$important
