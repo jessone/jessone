@@ -1,5 +1,5 @@
 !Title: Block-list
-!Version: 2022/06/12
+!Version: 2022/06/29
 !!!https://fastly.jsdelivr.net/gh/jessone/jessone@master/tools/block-list.txt
 !Total lines: 317
 
@@ -321,3 +321,14 @@ t66y.com##div[class^=tips_]
 ||checkip.synology.com^$important
 ||adashx.m.taobao.com.gds.alibabadns.com^$important
 ||utyautoupdate.cn^$important
+||log-api.pangolin-sdk-toutiao-b.com^$important
+||api-access.pangolin-sdk-toutiao.com^$important
+||p9-be-pack-sign.pglstatp-toutiao.com^$important
+||sf3-fe-tos.pglstatp-toutiao.com^$important
+||toblog.ctobsnssdk.com^$important
+||mssdk-bu.bytedance.com^$important
+||mssdk-bu.bytedance.com.w.cdngslb.com^$important
+||adim.pinduoduo.com^$important
+||tnc3-aliec2.snssdk.com^$important
+||applogapi.autohome.com.cn^$important
+||al.autohome.com.cn^$important
