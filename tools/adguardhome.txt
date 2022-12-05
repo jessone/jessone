@@ -89,6 +89,7 @@
 ||xmupdate.cdn.pandora.xiaomi.com^$important
 ||appstore.cdn.pandora.xiaomi.com^$important
 ||otherupdate.cdn.pandora.xiaomi.com^
+||g.cdn.pandora.xiaomi.com^
 ||market.mi-img.com^
 ||ksyun.com^$important
 ||assistant.duokanbox.com^$important
