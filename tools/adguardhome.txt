@@ -1,6 +1,6 @@
 
 !Title: Block-list
-!Version: 2022/06/29
+!Version: 2022/12/05
 !!!https://fastly.jsdelivr.net/gh/jessone/jessone@master/tools/block-list.txt
 !Total lines: 317
 
@@ -27,6 +27,8 @@
 ||windowsupdate.com^$important
 ||miit.gov.cn^$important
 ||pinyin.sogou.com^$important
+||shouji.sogou.com^
+||input.shouji.sogou.com^
 ||srv.greenguard.sec.miui.com^$client='192.168.4.195'
 ||crl.comodoca.com^$important
 ||wps.cn^$iportant
@@ -86,7 +88,8 @@
 ||video.market.xiaomi.com^$important
 ||xmupdate.cdn.pandora.xiaomi.com^$important
 ||appstore.cdn.pandora.xiaomi.com^$important
-||market.mi-img.com
+||otherupdate.cdn.pandora.xiaomi.com^
+||market.mi-img.com^
 ||ksyun.com^$important
 ||assistant.duokanbox.com^$important
 ||gss3.bdstatic.com^$important
@@ -456,6 +459,7 @@
 ||sv.bdstatic.com^$important
 ||api.huangye.miui.com^$important
 ||stats.music.xiaomi.com^$important
+||package.box.xiaomi.com^
 ||s.w-x.co^$important
 ||amdc.alipay.com^$important
 ||statuse.digitalcertvalidation.com^$important
