@@ -1,3 +1,4 @@
+
 !Title: Block-list
 !Version: 2022/06/29
 !!!https://fastly.jsdelivr.net/gh/jessone/jessone@master/tools/block-list.txt
@@ -8,15 +9,11 @@
 ||cdn.mip.cn^$important
 ||yun-hl.3g.qq.com^$important
 ||supl.bd-caict.com^$important
-@@||cache.ip138.com^$important
 ||adguard.com^$important
-@@||pass.1688.com^$important
-@@||widget.1688.com^$important
 @@||fourier.taobao.com^$important
 ||mermaid.ximalaya.com^$important
 ||hiai-cv-drcn.emui.hicloud.com^$important
 @@||click.linktech.cn^$important
-@@||wl.jd.com^$important
 #||metrics1.data.hicloud.com^$important
 ||pushtrs1.push.hicloud.com^$important
 ||mime.baidu.com^$important
@@ -27,7 +24,6 @@
 @@||aegis.qq.com^$important
 ||pglstatp-toutiao.com^$important
 ||convection.cn^$important
-||microsoft.com^$important
 ||windowsupdate.com^$important
 ||miit.gov.cn^$important
 ||pinyin.sogou.com^$important
@@ -40,9 +36,7 @@
 ||reports.baidu.com^$important
 @@||pub.alimama.com^$important
 ||rate.tmall.com^$important
-@@||www.alimama.com^$important
 @@||media.alimama.com^$important
-@@||www.linktech.cn^$important
 ||beacon-api.aliyuncs.com^$important
 ||statres.quickapp.cn^$important
 ||offline.aps.amap.com^$important
@@ -87,7 +81,6 @@
 ||trace2.pv.com.cn^
 ||package.cdn.box.xiaomi.com^$important
 ||package.wallpaper.cdn.pandora.xiaomi.com^$important
-||baiducdncnc.inter.ptqy.gitv.tv^$important
 ||pwupdate.cdn.pandora.xiaomi.com^$important
 ||newstreamcdncnc.inter.ptqy.gitv.tv^$important
 ||video.market.xiaomi.com^$important
@@ -101,7 +94,7 @@
 ||sp*.baidu.com^$important
 ||dss3.baidu.com^$important
 ||f*.baidu.com^
-#||t*.baidu.com^
+||t*.baidu.com^
 ||hector.baidu.com^$important
 ||hectorstatic.baidu.com^$important
 ||lwlog.laiwang.com^$important
@@ -144,7 +137,7 @@
 ||secure-chn.imrworldwide.com^$important
 ||ad.doubleclick.net^$important
 #天猫磨盒
-#||acs.m.taobao.com^$important
+||acs.m.taobao.com^$important
 ||pis.alicdn.com^$important
 ||pns.alicdn.com^$important
 ||galitv.alicdn.com^$important
@@ -223,12 +216,9 @@
 ||1156.yalqq8976.com^$important
 ||t6.mm96.cc^$important
 ||ks-live.com^$important
-||znds.com^$important
 ||vip.meituan.com^$important
-@@||log16-normal-c-useast1a.tiktokv.com^$important
 ||open.thunderurl.com^$important
 ||udpolimeok.baidu.com^$important
-@@||www.alidns.com^$important
 ||sdk.ip138.com^$important
 ||user.ip138.com^$important
 ||cpro.baidustatic.com^$important
@@ -237,7 +227,7 @@
 ||report.ipchaxun.com^$important
 ||imssg.huachengjun.com^$important
 ||pcrec.baidu.com^$important
-t66y.com##div[class^=tips_]
+||t66y.com##div[class^=tips_]
 ||www.361dai.com^$important
 ||si1.go2yd.com^$important
 ||www.lul8.com^$important
@@ -480,17 +470,12 @@ t66y.com##div[class^=tips_]
 ||s.threatbook.cn^$important
 ||x.threatbook.com^$important
 ||x.threatbook.cn^$important
-||t*.baidu.com^$important
 ||10backup.broadlink.com.cn^$important
 ||alloyteam-cdn.cdn-go.cn^$important
 ||log-report.com^$important
 ||wf.vivo.com.cn^$important
 ||s2.shuangms.com^$important
 ||p2.shuangms.com^$important
-@@||microsoft.com^$important
-@@||www.znds.com^$important
 ||10main.broadlink.com.cn^$important
 ||deff.nelreports.net^$important
 ||10tcp.broadlink.com.cn^$important
-@@||wl.jd.com^$important
-
